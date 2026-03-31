@@ -35,7 +35,7 @@ const logStream = rfs.createStream("requestLogs.log", {
 //cors
 
 const allowedOrigins = [
-  "https://collab-draw-collab-draw.vercel.app/",
+  "https://collab-draw-collab-draw.vercel.app",
 ];
 
 app.use(
