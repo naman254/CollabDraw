@@ -35,10 +35,7 @@ const logStream = rfs.createStream("requestLogs.log", {
 //cors
 
 const allowedOrigins = [
-  "https://excali-sketch-frontend.vercel.app",
-  "https://www.excali-sketch1.shop",
-  "https://excali-sketch1.shop",
-  "http://localhost:3000",
+  "https://collab-draw-collab-draw.vercel.app/",
 ];
 
 app.use(
