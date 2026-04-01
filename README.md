@@ -73,4 +73,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-For any questions or suggestions, feel free to reach out at [m.shahzan2003@gmail.com](mailto:m.shahzan2003@gmail.com).
+For any questions or suggestions, feel free to reach out at [naman.singh.254@gmail.com](mailto:naman.singh.254@gmail.com).
