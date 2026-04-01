@@ -1,6 +1,6 @@
-# Excali Sketch
+# CollabDraw
 
-Excali Sketch is a real-time collaborative canvas application inspired by Excalidraw. Built entirely using a raw canvas library, it features custom shapes and text logic implemented from scratch—no external drawing libraries required.
+CollabDraw is a real-time collaborative canvas application inspired by Excalidraw. Built entirely using a raw canvas library, it features custom shapes and text logic implemented from scratch—no external drawing libraries required.
 
 ## Features
 
@@ -11,17 +11,16 @@ Excali Sketch is a real-time collaborative canvas application inspired by Excali
 
 ## Demo
 
-- **Live Website:** [Excali-Sketch](https://excali-sketch-frontend.vercel.app)
-- **Demo Video:** [Gdrive](https://drive.google.com/file/d/1ofiLr19VXA27T3ZyPH1qwzF64n8AkRGK/view)
+- **Live Website:** [Collab-Draw](https://collab-draw-collab-draw.vercel.app/)
 
 ## Installation
 
-To run Excali Sketch locally, follow these steps:
+To run Collab Draw locally, follow these steps:
 
 1. **Clone the repository:**
 
   ```bash
-git clone https://github.com/shahzan01/Excali-Sketch
+git clone https://github.com/naman254/CollabDraw
 cd excali-sketch
    ```
 
@@ -32,7 +31,7 @@ cd excali-sketch
 pnpm install
    ```
 3. **Set Up Environment Variables**
-   Create a `.env` files in the apps/ExcaliSketch and apps/backend directory using the provided `.env.example`.
+   Create a `.env` files in the apps/CollabDraw and apps/backend directory using the provided `.env.example`.
 
    ```
    NEXT_PUBLIC_BACKEND_URL=http://localhost:5000
