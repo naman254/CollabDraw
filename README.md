@@ -11,7 +11,7 @@ CollabDraw is a real-time collaborative canvas application inspired by Excalidra
 
 ## Demo
 
-- **Live Website:** [Collab-Draw](https://collab-draw-collab-draw.vercel.app/)
+- **Live Website:** [Collab-Draw](https://collabdraw.namansingh.dev)
 
 ## Installation
 
